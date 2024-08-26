@@ -1,0 +1,19 @@
+header {
+background-color: rgb(62, 85, 54);
+text-transform: capitalize;
+display: flex;
+align-items: center;
+justify-content: space-between;
+border-bottom: 2px solid black;
+padding: 5px;
+color: rgb(202, 158, 24);
+}
+nav ul {
+list-style: none;
+
+}
+
+li{display:inline-block;
+    margin:10px;
+    font-size: 30px;
+}
