@@ -1,13 +1,14 @@
-import react from "react";
-import "./NavBar.css";
-import CartWinget from "../CartWinget/CartWinget";
+import React from 'react'
+
+import "./NavBar.css"
+import CartWinget from "../CartWinget/CartWinget"
 
 const NavBar = () => {
   return (
     
       
         <header>
-          <h1>mascotaplus©</h1>
+          <h1>mascotaPlus©</h1>
           <nav>
             <ul>
               <li>perros</li>

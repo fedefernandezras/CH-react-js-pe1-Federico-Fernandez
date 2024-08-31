@@ -8,5 +8,5 @@ const ItemListConteiner = (props) => {
     </div>
   )
 }
-s
+
 export default ItemListConteiner
