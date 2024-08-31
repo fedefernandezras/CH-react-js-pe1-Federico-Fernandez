@@ -1,6 +1,6 @@
 import react from 'react'
-import NavBar from './assets/componentes/NavBar/NavBar'
-import ItemListConteiner from './assets/componentes/ItemListConteiner/ItemListConteiner'
+import NavBar from './componentes/NavBar/NavBar'
+import ItemListConteiner from './componentes/ItemListConteiner/ItemListConteiner'
 
 
 
